@@ -2,7 +2,7 @@
 Repositório com exemplos e desafios do curso Java Básico. Referente ao aprendizado do Bootcamp "GFT Quality Assurance Para Mulheres" da Plataforma DIO
 
 
-### Um pouco sobre o aprendizado com a utilização da IDE VSCODE
+### Um pouco sobre o meu aprendizado com a utilização da IDE VSCODE
 ### Alguns conceitos sintaxe Java:
     - Anatomia de classes
     
